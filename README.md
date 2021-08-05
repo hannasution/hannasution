@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hannasution
+- 👀 I’m interested in AI, Golang, ReactJs
+- 🌱 I’m currently learning math, I think that's good for future development
+- 📫 Reach me at jitufarhan2@gmail.com
