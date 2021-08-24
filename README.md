@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hannasution
 - 👀 I’m interested in Machine learning, Golang, ReactJs
-- 🌱 I’m currently learning math, I think that's good for future development
+- 🌱 I’m currently learning Golang
 - 📫 Reach me at jitufarhan2@gmail.com
